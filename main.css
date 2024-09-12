@@ -7,8 +7,17 @@ body {
 }
 
 h1 {
-    color: bisque;
+    color: rgb(95, 95, 95);
     text-align: left;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+}
+
+h2 {
+    color: rgb(230, 230, 230);
+    text-align: left;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
 }
 
 p {
